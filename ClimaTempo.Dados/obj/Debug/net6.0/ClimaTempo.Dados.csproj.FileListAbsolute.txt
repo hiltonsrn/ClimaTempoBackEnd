@@ -22,3 +22,15 @@ C:\Users\UDS\source\repos\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\Cl
 C:\Users\UDS\source\repos\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\refint\ClimaTempo.Dados.dll
 C:\Users\UDS\source\repos\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.pdb
 C:\Users\UDS\source\repos\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ref\ClimaTempo.Dados.dll
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\bin\Debug\net6.0\ClimaTempo.Dados.deps.json
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\bin\Debug\net6.0\ClimaTempo.Dados.dll
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\bin\Debug\net6.0\ClimaTempo.Dados.pdb
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.csproj.AssemblyReference.cache
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.AssemblyInfoInputs.cache
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.AssemblyInfo.cs
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.csproj.CoreCompileInputs.cache
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.dll
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\refint\ClimaTempo.Dados.dll
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ClimaTempo.Dados.pdb
+C:\Users\UDS\source\repos\TesteClimaTempo\ClimaTempoBackEnd\ClimaTempo.Dados\obj\Debug\net6.0\ref\ClimaTempo.Dados.dll

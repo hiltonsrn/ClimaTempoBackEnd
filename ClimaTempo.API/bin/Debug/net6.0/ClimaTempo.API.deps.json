@@ -1264,6 +1264,9 @@
         }
       },
       "ClimaTempo.Infra/1.0.0": {
+        "dependencies": {
+          "ClimaTempo.Dados": "1.0.0"
+        },
         "runtime": {
           "ClimaTempo.Infra.dll": {}
         }

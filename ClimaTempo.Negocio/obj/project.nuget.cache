@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWMvj2B/0P1CXa128ZNN80P13OiMZA2h4uonNU4yywfr/p46Y0ylcsk/rQ+swDvOF6ZOpL+opatU6fxYqmcT3g==",
+  "dgSpecHash": "IR8zPqTWDsaO6tFo8VLTit0YJvx0pyHILn+Zs/NTfJBCAjny57bppaACjn6YDbcZ/HBgcqy0Cs2OjR9GEkiIaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj",
+  "projectFilePath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UDS\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\UDS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

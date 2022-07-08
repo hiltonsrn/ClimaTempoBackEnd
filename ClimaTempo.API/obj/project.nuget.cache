@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wfago5n6ukULDtEojU+0KuX6YBgzgiDQMSO3pR4RsDA+iY0sbJ6JNc12c//b4jKJbJmRHeRnkhFLWzCoHmukcA==",
+  "dgSpecHash": "qtSA1dPr3x5bZ5qL8z9qKc79rMIKrz+7oAlvtJVv7nU5i4PCY5TTvEf7kCzJDSm3+BnOfrfUsWJk9bE3FiUwiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.API\\ClimaTempo.API.csproj",
+  "projectFilePath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.API\\ClimaTempo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UDS\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\UDS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

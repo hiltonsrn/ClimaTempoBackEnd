@@ -6911,11 +6911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
+      "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
       "projectName": "ClimaTempo.Dados",
-      "projectPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
+      "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
       "packagesPath": "C:\\Users\\UDS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\obj\\",
+      "outputPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

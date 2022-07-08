@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj": {}
+    "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj": {
+    "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
+        "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
         "projectName": "ClimaTempo.Dados",
-        "projectPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
+        "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj",
         "packagesPath": "C:\\Users\\UDS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\obj\\",
+        "outputPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj": {
+    "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj",
         "projectName": "ClimaTempo.Infra",
-        "projectPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj",
+        "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj",
         "packagesPath": "C:\\Users\\UDS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Infra\\obj\\",
+        "outputPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,7 +107,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj": {
+                "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -138,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj": {
+    "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj",
         "projectName": "ClimaTempo.Negocio",
-        "projectPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj",
+        "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\ClimaTempo.Negocio.csproj",
         "packagesPath": "C:\\Users\\UDS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\obj\\",
+        "outputPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,11 +170,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj": {
-                "projectPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj"
+              "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj": {
+                "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Dados\\ClimaTempo.Dados.csproj"
               },
-              "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj": {
-                "projectPath": "C:\\Users\\UDS\\source\\repos\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj"
+              "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj": {
+                "projectPath": "C:\\Users\\UDS\\source\\repos\\TesteClimaTempo\\ClimaTempoBackEnd\\ClimaTempo.Infra\\ClimaTempo.Infra.csproj"
               }
             }
           }
